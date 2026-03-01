@@ -1,6 +1,6 @@
 # Vault User & Group Access Report (updated)
 
-A small utility to generate CSV reports showing which users and groups have access to your 1Password vaults. This is an updated version of 1Password's official example; see the credit section for the original source.
+A small utility to generate CSV reports showing which users and groups have access to your 1Password vaults. This was developed for our csv file that was then uploaded into our SailPoint Identity Security Cloud tenant for our User Access Reviews. This is an updated version of 1Password's official example; see the credit section for the original source.
 
 **Prerequisites:**
 - Python 3.8+ (run with `python3`)
