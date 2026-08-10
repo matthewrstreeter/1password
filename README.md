@@ -1,4 +1,4 @@
-# 1password
+# 1Password
 1Password related scripts
 
 ## Included scripts
